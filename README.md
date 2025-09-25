@@ -35,5 +35,5 @@ macOS - PowerShell 7+ output:
 Clone or download this repository, then run the script:
 
 ```powershell
-git clone https://github.com/justanotherkiwi/Windows-App-Arch-Detector.git
-cd AppArchCheck
+git clone https://github.com/justanotherkiwi/AppArchChecker.git
+cd AppArchChecker
