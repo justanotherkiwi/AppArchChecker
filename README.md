@@ -6,6 +6,17 @@ architecture (`x86`, `x64`, `ARM`, `ARM64`, `Itanium`, `Neutral`).
 
 Works on **Windows PowerShell 5.1** and **PowerShell 7+** across Windows and macOS, Testing on Linux is required.
 
+# Example Screenshots:
+
+Windows - PowerShell 5.1 output:
+
+![PowerShell 5.1 output](Screenshot-Windows.png)
+
+macOS - PowerShell 7+ output:
+
+![PowerShell 7 output](Screenshot-macOS.png)
+
+
 ---
 
 ## Features
